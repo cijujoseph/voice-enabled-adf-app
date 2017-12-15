@@ -24,4 +24,4 @@ List of URLs being proxied:
 - `/activiti-app` -> `http://localhost:8080`
 
 ## Click the below link to watch a demo of this project
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=U2085EEUdo4" target="_blank"><img src="https://img.youtube.com/vi/U2085EEUdo4/0.jpg" alt="Click here to watch a demo of this project" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MLa_0lBGeO8" target="_blank"><img src="https://img.youtube.com/vi/MLa_0lBGeO8/0.jpg" alt="Click here to watch a demo of this project" width="240" height="180" border="10" /></a>
