@@ -1,6 +1,5 @@
 # ADF/APS Application with Angular CLI
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0
+An example ADF App integrated with WebSpeech API using https://github.com/TalAter/annyang. For supported browsers please check [this page](https://github.com/TalAter/annyang/blob/master/docs/FAQ.md#which-browsers-are-supported). This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0
 
 ## Quick start
 
